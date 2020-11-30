@@ -6,7 +6,7 @@ Project based in UI interface [Interface](https://twitter.com/interfacely_/statu
 
 **Image Project Finish!**
 
-![alt text](https://github.com/nelson-sepulveda/select-workout-RN/blob/master/finish.jpeg?raw=true)
+![alt text](https://github.com/nelson-sepulveda/login-mobile-RN/blob/master/finish.jpeg?raw=true)
 
 
 **Install Project**
